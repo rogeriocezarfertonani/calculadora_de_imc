@@ -1,5 +1,5 @@
-# calculadoraimc
+# calculadora Imc
 
-Uma calculadora de IMC
+Uma calculadora de IMC 
 
-Projeto de uma calculadora de IMC desenvolvida em Flutter
+Projeto de uma calculadora para calcular o Índice de massa corpórea  desenvolvida em Flutter.
