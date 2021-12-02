@@ -1,4 +1,4 @@
-# calculadora Imc
+# Calculadora Imc
 
 Uma calculadora de IMC 
 
